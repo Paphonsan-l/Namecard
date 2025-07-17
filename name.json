@@ -1,7 +1,23 @@
-{
+[
+  {
     "name": "Paphonsan LEENIN",
     "title": "Digital Science and Technology",
     "phone": "+66 83 968 0630",
     "email": "natthida145@gmail.com",
-    "image": "https://github.com/Paphonsan-l/Namecard/blob/46f98fbf052f48388218e857d77e1944b4cf95b0/pap.png"
+    "image": "https://github.com/Paphonsan-l/Namecard/blob/8be960e5dbce95e3d1be6d6429c10fdfdbf1351c/pap.png"
+  },
+  {
+    "name": "Nattida CHIEWLIAN",
+    "title": "Digital Science and Technology",
+    "phone": "+66 875 251 547",
+    "email": "nattida.chi@live.ku.th",
+    "image": "https://github.com/Paphonsan-l/Namecard/blob/46f98fbf052f48388218e857d77e1944b4cf95b0/nttd.png"
+  },
+  {
+    "name": "Saritrojana RUANGSIRI",
+    "title": "Digital Science and Technology",
+    "phone": "+66 632 675 758",
+    "email": "saritrojana.r@live.ku.th",
+    "image": "https://github.com/Paphonsan-l/Namecard/blob/8be960e5dbce95e3d1be6d6429c10fdfdbf1351c/Tonklaprofile.png"
   }
+]
