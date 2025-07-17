@@ -1,7 +1,23 @@
-{
+[
+  {
     "name": "Paphonsan LEENIN",
     "title": "Digital Science and Technology",
     "phone": "+66 83 968 0630",
     "email": "natthida145@gmail.com",
     "image": "pap.png"
-}
+  },
+  {
+    "name": "Nattida CHIEWLIAN",
+    "title": "Digital Science and Technology",
+    "phone": "+66 875 251 547",
+    "email": "nattida.chi@live.ku.th",
+    "image": "nttd.png"
+  },
+  {
+    "name": "Saritrojana RUANGSIRI",
+    "title": "Digital Science and Technology",
+    "phone": "+66 632 675 758",
+    "email": "saritrojana.r@live.ku.th",
+    "image": "Tonklaprofile.png"
+  }
+]
